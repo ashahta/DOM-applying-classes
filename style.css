@@ -21,6 +21,14 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: green;
+}
+
+.peachpuff {
+  background-color: peachpuff
+}
+
 .invisible {
   display: none;
 }
